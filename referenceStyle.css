@@ -1,0 +1,45 @@
+body {
+	background-color: gray;
+	color: #fff;
+  }
+h2{
+	text-align: center;
+	color: #8cf0ff;
+}
+  .btn-primary {
+	background-color: #134d7d;
+	border-color: #134d7d;
+	opacity: 1;
+  }
+  .btn-light:hover {
+	background-color: #134d7d;
+	border-color: #134d7d;
+	color: #fff;
+  }
+  .about-title {
+	text-transform: capitalize;
+	font-size: 60px;
+	color: #8cf0ff;
+	text-align: center;
+	margin-bottom: 20px;
+  }
+  
+  .box {
+	max-width: 600px;
+	margin: 50px auto;
+	background-color: #134d7d;
+  }
+  
+  img {
+	max-width: 100%;
+  }
+
+  .Location{
+	position: absolute;
+	margin: 0;
+  	padding: 35px;
+	height: 80%;
+	width: 100%;
+	background-color: #4D4D4D;
+}
+  
